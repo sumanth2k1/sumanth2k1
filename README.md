@@ -116,7 +116,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" height="30" alt="YOLO logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jetson_nano.svg/800px-Jetson_nano.svg.png" height="30" alt="Jetson logo" />
+  <img src="https://aidl.uniwa.gr/wp-content/uploads/2021/01/jetson.png" height="30" alt="Jetson logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
