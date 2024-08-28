@@ -112,7 +112,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="Arduino logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/000000/esp32.png" height="30" alt="ESP32 logo" />
+  <img src="https://user-images.githubusercontent.com/20584492/60020427-cff72880-9671-11e9-88b3-0469a34f248c.png" height="30" alt="ESP32 logo" />
   <img width="12" />
   <img src="https://www.immersivelimit.com/hubfs/YOLO_logo.png" height="30" alt="YOLO logo" />
   <img width="12" />
@@ -124,6 +124,7 @@
   <img width="12" />
   <img src="https://www.ashlyns.school/assets/Uploads/4f42975b00/Internet-of-Things.png" height="30" alt="ThingsBoard logo" />
 </div>
+
 
 
 ###
