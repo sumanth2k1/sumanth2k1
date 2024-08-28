@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sumanth Devadiga and I'm a Junior Software Developer with 1 year of experience, from [Your Location].</h2>
+<h2 align="left">Hi 👋! My name is Sumanth Devadiga and I'm a Junior Software Developer with 1 year of experience, from Mumbai.</h2>
 
 ###
 
