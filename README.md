@@ -110,20 +110,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-arduino-an-open-source-electronics-platform-logo-shadow-tal-revivo.png" height="30" alt="Arduino logo" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="Arduino logo" />
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/000000/esp32.png" height="30" alt="ESP32 logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/yolo.png" height="30" alt="YOLO logo" />
+  <img src="https://www.immersivelimit.com/hubfs/YOLO_logo.png" height="30" alt="YOLO logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/64/000000/jetson-tk1.png" height="30" alt="Jetson logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jetson_nano.svg/800px-Jetson_nano.svg.png" height="30" alt="Jetson logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" height="30" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/000000/website.png" height="30" alt="Web Development logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/dusk/64/000000/thingsboard.png" height="30" alt="ThingsBoard logo" />
+  <img src="https://www.ashlyns.school/assets/Uploads/4f42975b00/Internet-of-Things.png" height="30" alt="ThingsBoard logo" />
 </div>
+
 
 ###
 
