@@ -114,7 +114,7 @@
   <img width="12" />
   <img src="https://tse1.mm.bing.net/th?id=OIP.r2pd0NihGrkKWnOsZnGkmQHaJF&pid=Api&P=0&h=180" height="30" alt="ESP32 logo" />
   <img width="12" />
-  <img src="https://www.immersivelimit.com/hubfs/YOLO_logo.png" height="30" alt="YOLO logo" />
+  <img src="https://raw.githubusercontent.com/goktug97/PyYOLO/master/pyyologo.png" height="30" alt="YOLO logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jetson_nano.svg/800px-Jetson_nano.svg.png" height="30" alt="Jetson logo" />
   <img width="12" />
