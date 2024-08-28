@@ -112,7 +112,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="Arduino logo" />
   <img width="12" />
-  <img src="https://user-images.githubusercontent.com/20584492/60020427-cff72880-9671-11e9-88b3-0469a34f248c.png" height="30" alt="ESP32 logo" />
+  <img src="https://tse1.mm.bing.net/th?id=OIP.r2pd0NihGrkKWnOsZnGkmQHaJF&pid=Api&P=0&h=180" height="30" alt="ESP32 logo" />
   <img width="12" />
   <img src="https://www.immersivelimit.com/hubfs/YOLO_logo.png" height="30" alt="YOLO logo" />
   <img width="12" />
