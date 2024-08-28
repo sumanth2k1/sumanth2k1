@@ -118,11 +118,11 @@
   <img width="12" />
   <img src="https://aidl.uniwa.gr/wp-content/uploads/2021/01/jetson.png" height="30" alt="Jetson logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
+  <img src="https://mythinkpond.com/img/logo/tailwindcss-logo.png" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/000000/website.png" height="30" alt="Web Development logo" />
+  <img src="https://w7.pngwing.com/pngs/348/799/png-transparent-web-development-computer-icons-web-icons-web-design-text-logo.png" height="30" alt="Web Development logo" />
   <img width="12" />
-  <img src="https://www.ashlyns.school/assets/Uploads/4f42975b00/Internet-of-Things.png" height="30" alt="ThingsBoard logo" />
+  <img src="https://repository-images.githubusercontent.com/75277003/027a8900-6d10-11e9-8e34-4c5af9d7106f" height="30" alt="ThingsBoard logo" />
 </div>
 
 
