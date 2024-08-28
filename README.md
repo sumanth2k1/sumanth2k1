@@ -42,7 +42,6 @@
 ### 💼 Tools I Use:
 
 - **VS Code**: My go-to code editor for all things development.
-- **Git**: Version control to keep my projects organized.
 - **Docker**: Containerization for consistent environments.
 - **Postman**: API development and testing.
 - **AWS**: Deployment and linux Instance's.
@@ -84,8 +83,4 @@
 - **Cloud Technologies**: Exploring AWS and Azure for deploying scalable applications.
 - **CI/CD**: Setting up automated pipelines for faster and more reliable deployments.
 
-### 🚀 Projects:
-
-- **[Project Name]**: A brief description of a project you’re proud of. Add links to GitHub repositories or live demos if available.
-- **[Another Project]**: Describe another project here. Mention what technologies you used and what challenges you overcame.
 
